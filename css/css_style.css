@@ -1,0 +1,13 @@
+/* navigation */
+.bg-navbar {
+  background: rgba(30, 201, 207, 0.6);
+}
+
+/* slider */
+.slider {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .7)), url('../img/css_slider_bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}

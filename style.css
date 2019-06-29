@@ -1,0 +1,36 @@
+/* navigation */
+.bg-navbar {
+  background: rgba(30, 201, 207, 0.6);
+}
+
+/* slider */
+.slider {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .7)), url('img/slider_bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* html */
+.html {
+  background: linear-gradient(rgba(229, 76, 33, .3), rgba(229, 76, 33, .8));
+}
+
+/* css */
+.css {
+  background: linear-gradient(rgba(38, 77, 228, .3), rgba(38, 77, 228, .8));
+}
+
+/* bootstrap */
+.bootstrap {
+  background: linear-gradient(rgba(28, 11, 59, .3), rgba(28, 11, 59, .6));
+}
+.text-lightblue {
+  color: rgb(53, 12, 46);
+}
+
+/* javascript */
+.javascript {
+  background: linear-gradient(rgba(247, 224, 24, .3), rgba(247, 224, 24, .8));
+}
